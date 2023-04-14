@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624279399 source:/home/hp/C/RattrapageSetPacking/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624279885 source:/home/hp/Code/C/RattrapageSetPacking/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624279885 source:/home/hp/Code/SetPacking/main.c
+	<stdio.h>
+	<stdlib.h>
+
